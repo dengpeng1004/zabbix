@@ -1,6 +1,7 @@
 # zabbix-win
 1.编译链接
   https://www.zabbix.com/documentation/6.0/zh/manual/installation/install/win_agent 不要使用 PCRE2,PCRE就行了
+
   
 2.错误处理:
    2.1  ZABBIX_RC_NUM 

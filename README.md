@@ -1,6 +1,7 @@
 # zabbix-win
 1.编译链接
   https://www.zabbix.com/documentation/6.0/zh/manual/installation/install/win_agent 不要使用 PCRE2,PCRE就行了
+  
 2.错误处理:
    ZABBIX_RC_NUM 
        修改 报错的 resource.rc 文件,要是图省事，直接改个日期就行
